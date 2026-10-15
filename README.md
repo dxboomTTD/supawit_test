@@ -1,2 +1,2 @@
 # supawit_test
-This is Git for team session in CS100. I am working with A.
+This is Git for team session in CS100. A and B are working together.
